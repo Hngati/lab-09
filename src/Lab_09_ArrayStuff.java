@@ -51,7 +51,7 @@ public class Lab_09_ArrayStuff {
         if (position != -1) {
             System.out.println("The value " + searchTarget + " was found at array index " + position);
         } else {
-            System.out.println("The value " + searchTarget + " was not found in the array.");
+            System.out.println("The value " + searchTarget + " not found in the array.");
         }
         int min = dataPoints[0];
         int max = dataPoints[0];
